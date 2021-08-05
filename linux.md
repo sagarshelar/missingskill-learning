@@ -1,7 +1,12 @@
 # Linux
 ### History
+- In 1970, Bell lab- unix system. 
+- In 1985, rechard stalman- GNU/GPL
+- Linux is a kernel Discoverd by linus Torvard in 1991.
+- Today 99% softeware works on linux code. 
 
- 
+<p><img src="images/photo_2021-08-05_10-57-01.jpg" width="800"></p>
+
 ### Linux Commands
 | Commanad | 	          Used For |
 | --------- |---------------------  |
